@@ -18,3 +18,10 @@ Un Ejemplo de peticion correcta:
 		"price" : 1000000000
 }
 ```
+JSON devuelto por el servidor:
+```
+{
+    "vehicleId": 4,
+    "returnCode": 2
+}
+```
